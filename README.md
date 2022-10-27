@@ -9,4 +9,4 @@
 > 
 > [**TLB**](https://timeline-bookstore.wikidot.com)目前使用的主题由[DrMarleak](http://www.wikidot.com/user:info/DrMarleak)与[Etinjat](http://www.wikidot.com/user:info/etinjat)基于[**Black Supremacy**](https://timeline-bookstore.wikidot.com/component:theme)修改以适配中文。由[Vertex Z](https://www.wikidot.com/user:info/vertex-z)修改CSS代码以适配时间轴书店。均适用于知识共享-版权归属-相同方式共享 3.0 授权协议（[CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)）
 > 
-> 除非有特别说明，本存储库的内容由[lest-day](https://www.wikidot.com/user:info/lest-day)负责管理编辑，并且均同样适用于**知识共享-版权归属-相同方式共享 3.0 授权协议**。
+> 除非有特别说明，本存储库的内容主要由[lest-day](https://www.wikidot.com/user:info/lest-day)负责管理编辑和维护，并且均同样适用于**知识共享-版权归属-相同方式共享 3.0 授权协议**。
