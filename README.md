@@ -1,8 +1,8 @@
-# Black Supremacy主题
+## Black Supremacy主题
 这是Black-Supremacy版式主题的分支存储库
 
 
-# 许可证信息
+## 许可证信息
 > **Black Supremacy** 【2020 Wikidot Theme】
 >
 > [**时间轴书店**](https://timeline-bookstore.wikidot.com)目前使用的主题[**Black Supremacy**](https://timeline-bookstore.wikidot.com/component:theme)的设计者为[Vizlox](http://www.wikidot.com/user:info/vizlox)，基于[James Pitchford](http://www.wikidot.com/user:info/james-pitchford)设计的**Supremacy**主题开发。此主题同样使用了[BobbyTheEvil](http://www.wikidot.com/user:info/bobbytheevil)所设计名为**RPC Authority Dark Theme**的非官方Chrome拓展插件。
