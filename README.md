@@ -1,4 +1,10 @@
 ## Black Supremacy主题
+<p>
+  <a href="https://github.com/TimeLine-Bookstore/Black-Supremacy/actions?query=workflow%3A%22Stylelint%22">
+    <img src="https://github.com/TimeLine-Bookstore/Black-Supremacy/workflows/Stylelint/badge.svg"
+         alt="Rust CI badge">
+  </a>
+</p>
 这是Black-Supremacy版式主题的分支存储库
 
 
