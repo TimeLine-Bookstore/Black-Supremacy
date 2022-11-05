@@ -1,13 +1,15 @@
 ## Black Supremacy主题
-  <a href="https://github.com/TimeLine-Bookstore/Black-Supremacy/actions?query=workflow%3A%22Stylelint%22">
-    <img src="https://github.com/TimeLine-Bookstore/Black-Supremacy/workflows/Stylelint/badge.svg"
-         alt="Rust CI badge">
-  </a>
+<p>
 
-  <a href="https://github.com/TimeLine-Bookstore/Black-Supremacy/blob/master/LICENSE.md">
-    <img src="https://img.shields.io/badge/license-CC%20BY--SA-blue"
-         alt="Rust CI badge">
-  </a>
+<a href="https://github.com/TimeLine-Bookstore/Black-Supremacy/actions?query=workflow%3A%22Stylelint%22">
+<img src="https://github.com/TimeLine-Bookstore/Black-Supremacy/workflows/Stylelint/badge.svg" alt="Rust CI badge">
+</a>
+ 
+<a href="https://github.com/TimeLine-Bookstore/Black-Supremacy/blob/master/LICENSE.md">
+<img src="https://img.shields.io/badge/license-CC%20BY--SA-blue" alt="Rust CI badge">
+</a>
+
+</p>
   
 这是Black-Supremacy版式主题的分支存储库。
 
