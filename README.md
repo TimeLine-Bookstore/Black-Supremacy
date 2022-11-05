@@ -16,7 +16,7 @@
 
 ## 主题更新
 
-将新更改推送到存储库时，它们不会自动反映在主站点中。您必须打开页面[`component:theme`](https://timeline-bookstore.wikidot.com/component:theme), 并从中`sigma9.css`复制CSS代码内容到`[[code]]`模块.
+将新更改推送到存储库时，它们不会自动反映在主站点中。您必须打开页面[`component:theme`](https://timeline-bookstore.wikidot.com/component:theme), 并从中`Black-Supremacy.css`复制CSS代码内容到`[[code]]`模块.
 
 与传言相反，没必要在Wiki的管理面板中“重新选择”CSS源代码，更新代码块就足够了。
 
